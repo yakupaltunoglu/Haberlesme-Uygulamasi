@@ -1,0 +1,13 @@
+C:\Users\yakup\source\repos\_mysql\_mysql\obj\Debug\_mysql.csprojAssemblyReference.cache
+C:\Users\yakup\source\repos\_mysql\_mysql\obj\Debug\_mysql.Form1.resources
+C:\Users\yakup\source\repos\_mysql\_mysql\obj\Debug\_mysql.Properties.Resources.resources
+C:\Users\yakup\source\repos\_mysql\_mysql\obj\Debug\_mysql.csproj.GenerateResource.cache
+C:\Users\yakup\source\repos\_mysql\_mysql\obj\Debug\_mysql.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\_mysql\_mysql\bin\Debug\_mysql.exe.config
+C:\Users\yakup\source\repos\_mysql\_mysql\bin\Debug\_mysql.exe
+C:\Users\yakup\source\repos\_mysql\_mysql\bin\Debug\_mysql.pdb
+C:\Users\yakup\source\repos\_mysql\_mysql\bin\Debug\MySql.Data.dll
+C:\Users\yakup\source\repos\_mysql\_mysql\bin\Debug\MySql.Data.xml
+C:\Users\yakup\source\repos\_mysql\_mysql\obj\Debug\_mysql.csproj.CopyComplete
+C:\Users\yakup\source\repos\_mysql\_mysql\obj\Debug\_mysql.exe
+C:\Users\yakup\source\repos\_mysql\_mysql\obj\Debug\_mysql.pdb
